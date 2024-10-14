@@ -1,0 +1,9 @@
+# Ignore all files with no extension (like executables)
+*
+
+# Allow C source files
+!*.c
+
+# Allow other empty files explicitly (in case they're needed)
+!.gitignore
+!.gitkeep
